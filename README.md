@@ -1,39 +1,11 @@
 
-# Map Scraper
+# Map Scraper UI
 
 MapScraper is a Source Engine script that extracts a map's content, such as models, textures, sounds, scripts, etc.
 
+This fork is an attempt to make Map Scraper with a (beautiful) UI.
 
-## Installation
-[![Latest Release](https://img.shields.io/github/downloads/SpySpaille/MapScraper/total)](https://github.com/SpySpaille/MapScraper/releases/latest)
-
-- Download the latest release **[here](https://github.com/SpySpaille/MapScraper/releases/latest)**
-- Place the executable in a **dedicated** folder
-- Execute the executable file
-
-## Usage/Examples
-
-Simple exemple:
-```console
-$ - 📂 Game Path > C:\Steam\steamapps\common\GarrysMod\garrysmod
-$ - 🗒️ VMF File > C:\Steam\steamapps\common\GarrysMod\garrysmod\maps\gm_construct.vmf
-$ - 🧱 Extract Materials (y/n) > y
-$ - 📐 Extract Models (y/n) > n
-$ - 🔊 Extract Sounds (y/n) > y
-```
-Output:
-```console
-$ - ✅ 33 materials have been extracted to the output folder
-$ - ✅ 12 sounds have been extracted to the output folder
-```
-All extracted content will be in the folder named "output", make sure you have placed the executable in a dedicated folder to see the output folder.
-
-## Features
-
-- Extract materials and textures from VMF file.
-- Extract 3D Models files and materials from VMF file.
-- Extract sounds files from VMF file.
-
+⚠️ This is a project & WIP fork. I will start working on when I'll be available and no longer busy by exams.
 
 ## Author
 
